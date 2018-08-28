@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ಹಬ್ಲರ್</string>
+    <string name="powered_by_appmomos">Appmomos ನಡೆಸಲ್ಪಡುತ್ತಿದೆ</string>
+    <string name="logInSectionTitle">ವಿಭಾಗ ಪ್ರವೇಶಿಸಿ</string>
+    <string name="email">ಇಮೇಲ್ *</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್*</string>
+    <string name="log_in">ಪ್ರವೇಶಿಸಿ</string>
+    <string name="remember_me">ನನ್ನನ್ನು ನೆನಪಿನಲ್ಲಿ ಇಡು</string>
+    <string name="forgot_password">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ..?</string>
+    <string name="noInternetTxt">ಮುಂದುವರಿಯಲು ಯಾವುದೇ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+    <string name="mandatoryTxt">ಕಡ್ಡಾಯ</string>
+    <string name="invalidEmailFormatTxt">ಅಮಾನ್ಯವಾದ ಇಮೇಲ್ ಸ್ವರೂಪ</string>
+    <string name="emailFormat" tools:ignore="TypographyDashes">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+    <string name="logInSuccessTxt">ಯಶಸ್ವಿಯಾಗಿ ಲಾಗ್ ಇನ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="logInFailedTxt">ಅಮಾನ್ಯವಾದ ರುಜುವಾತುಗಳು</string>
+    <string name="submit">ಸಲ್ಲಿಸಲು</string>
+    <string name="enterOtpTxt">ಸ್ವೀಕರಿಸಿದ OTP ಯನ್ನು ನಮೂದಿಸಿ *</string>
+    <string name="emailNotRegisteredTxt">ಇಮೇಲ್ ನೋಂದಾಯಿಸಲಾಗಿಲ್ಲ, ಸರಿಯಾದ ಇಮೇಲ್ನೊಂದಿಗೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="otpSentTxt">Otp ಅನ್ನು ನಿಮ್ಮ ನೋಂದಾಯಿತ ಫೋನ್ ಸಂಖ್ಯೆಗೆ ಕಳುಹಿಸಲಾಗಿದೆ, ದಯವಿಟ್ಟು ಮುಂದುವರೆಯಲು ಸರಿಯಾದ OTP ಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="otpLengthErrorTxt">ಕನಿಷ್ಠ ಉದ್ದ 6 ಆಗಿರಬೇಕು</string>
+    <string name="incorrectOtpTxt">ತಪ್ಪಾದ OTP</string>
+    <string name="passwordSentTxt">New password has been sent to your Mobile number</string>
+
+    <string name="navigation_drawer_open">ನ್ಯಾವಿಗೇಷನ್ ಡ್ರಾಯರ್ ತೆರೆಯಿರಿ</string>
+    <string name="navigation_drawer_close">ಸಂಚರಣೆ ಡ್ರಾಯರ್ ಮುಚ್ಚಿ</string>
+    <string name="nav_header_title">ಆಂಡ್ರಾಯ್ಡ್ ಸ್ಟುಡಿಯೋ</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">ನ್ಯಾವಿಗೇಷನ್ ಹೆಡರ್</string>
+    <string name="action_settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+    <string name="logoutTxt">ಲಾಗ್ ಔಟ್</string>
+
+    <string name="blue">ನೀಲಿ</string>
+    <string name="red">ಕೆಂಪು</string>
+    <string name="green">ಗ್ರೀನ್</string>
+    <string name="orange">ಕಿತ್ತಳೆ</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="app_language">ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ</string>
+    <string name="home_screen">ಹೋಮ್ ಸ್ಕ್ರೀನ್</string>
+</resources>
